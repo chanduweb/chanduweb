@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chanduweb
 - 👀 I’m interested in developing
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me through github
 
